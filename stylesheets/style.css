@@ -15,7 +15,7 @@ body {
    float: left;
    border-right: 2px solid #242021;
    border-bottom: 2px solid #242021;
-   width: 260px;
+   width: 310px;
    height: auto;
    font-size: 30px;
    border-bottom-right-radius: 20px;
@@ -66,7 +66,7 @@ body {
    text-align: left;
    border: 2px solid #242021;
    border-radius: 15px;
-   width: calc(100% - 264px - 54px);
+   width: calc(100% - 314px - 54px);
    font-size: 30px;
    padding: 10px;
    
