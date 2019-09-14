@@ -1,5 +1,3 @@
-
- 
 body {
    background-color: white;
    width: 1200px;
@@ -10,7 +8,6 @@ body {
 }
 
 #menu {
-   /* border: 2px solid #242021; */
    float: left;
    border-right: 2px solid #041E42;
    border-bottom: 2px solid #041E42;
@@ -79,14 +76,6 @@ body {
    font-size: 50px;
    border-bottom-right-radius: 25px;
    border-bottom-left-radius: 25px;
-}
-
-.header_img {
-   padding-top: 10px; 
-   height:80px;
-   margin-right: 50px;
-   margin-left: 50px;
-   vertical-align: middle;   
 }
 
 .page_content {
